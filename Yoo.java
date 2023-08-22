@@ -4,4 +4,8 @@ class Yoo
 	{
 	  ///code
 	}
+   public void p1()
+	{
+	  ///code2
+	}
 }
